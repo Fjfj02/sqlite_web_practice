@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This project is based on databases and their connection to the web, specifically, Flask and Jinja
+This project is based on databases and their connection to the web, specifically, Flask and Jinja.
 
 It was based on the same course as other projects that are on my GitHub.
 
